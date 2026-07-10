@@ -232,10 +232,10 @@ Sensitivity analysis across all hyperparameters is provided in Appendix 9 of the
 ```bibtex
 @inproceedings{smeta-zsl-2026,
   title     = {SMETA-ZSL: Semantic Meta-Alignment for Zero-Shot Threat Classification},
-  author    = {Anonymous},
+  author    = {Ivan A Montoya Sanchez, Anantaa Kotal, Aritran Piplai},
   booktitle = {Conference on Language Modeling (COLM)},
   year      = {2026},
-  note      = {Under review}
+  note      = {Accepted}
 }
 ```
 
