@@ -2,7 +2,7 @@
 
 Official implementation of **SMETA-ZSL**, a framework for generalized zero-shot learning (GZSL) on tabular cybersecurity data using LLM-derived semantic prototypes and episodic meta-learning.
 
-> Paper under review at COLM 2026.
+> Paper accepted at COLM 2026.
 
 ---
 
