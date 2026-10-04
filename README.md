@@ -4,6 +4,8 @@ Official implementation of **SMETA-ZSL**, a framework for generalized zero-shot 
 
 > Paper accepted at COLM 2026.
 
+Project link: https://security-and-intelligence-lab-utep.github.io/SMETA-ZSL/
+
 ---
 
 ## Overview
